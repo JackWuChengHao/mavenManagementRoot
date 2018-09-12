@@ -1,0 +1,2 @@
+# mavenManagementRoot
+用于个人项目的maven管理父级项目
